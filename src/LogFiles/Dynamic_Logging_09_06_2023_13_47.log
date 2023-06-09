@@ -1,0 +1,4 @@
+09 June 2023 13:47:34  0 [main] [INFO] TestScripts.VerifyDemoAppTest [VerifyDemoAppTest.java:191] - Amount List Before click on Table head -> [1250.0, 952.23, -320.0, 17.99, -244.0, 340.0]
+09 June 2023 13:47:34  370 [main] [INFO] TestScripts.VerifyDemoAppTest [VerifyDemoAppTest.java:193] - Amount List After click on Table head -> [-320.0, -244.0, 17.99, 340.0, 952.23, 1250.0]
+09 June 2023 13:48:30  56448 [main] [INFO] TestScripts.VerifyDemoAppTest [VerifyDemoAppTest.java:58] - [true, true, true]
+09 June 2023 13:48:47  72974 [main] [INFO] TestScripts.VerifyDemoAppTest [VerifyDemoAppTest.java:66] - [true, true]
